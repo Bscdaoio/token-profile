@@ -1,0 +1,8 @@
+{
+  "symbol": "CS",
+  "name": "Chainstock.org",
+  "contract_address": "0x75F8Cb240390Bc5E916F0Bb8b27BAd7c9770379f",
+  "decimal": 8,
+  "website": "https://chainstock.org",
+  "type": "BEP20"
+}
